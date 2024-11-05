@@ -1,9 +1,9 @@
 # Duality
 Here, You can all submit your solutions for the DSA questions ACM presents to you, through Duality.
 
-# Important Instructions:
+## Important Instructions:
 Submit your solution file in the following format or else it will be rejected: EnrolmentNumber_Name_L1/L2
-## Also add question in the description, optimised code will rewarded better points relatively.
+Also add question in the description, optimised code will rewarded better points relatively.
 
 
 ## [Step-by-Step Guide]
